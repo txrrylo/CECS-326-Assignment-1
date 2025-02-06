@@ -3,13 +3,13 @@
 ## Assignment Description:
 ### Answer the following questions from the Chapter 1 reading from your textbook. Be thorough and complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
 
-1. What are the two main functions of an operating system?
+1. What are the two main functions of an operating system?\
 *The two main functions of an operating system are used as an extended machine and a resource manager. The extended machine acts as an interface between the user and the hardware, making the computer easier to use without worrying about the technical details. The resource manager manages system resources, like deciding which program gets CPU time, how memory is allocated, and handling file storage, so everything can run efficiently.*
 
-2. What is the difference between timesharing and multiprogramming systems?
+2. What is the difference between timesharing and multiprogramming systems?\
 *Multiprogramming is about efficiency where it keeps multiple programs in memory at once so the CPU always has something to do while reducing idle time. However, timesharing is about fairness as it rapidly switches between multiple users or tasks which it gives the illusion that they have their own personal computer, even though they’re actually just sharing resources.*
 
-3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?
+3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?\
 *Not dead at all as it’s practically everywhere. Modern processors like the x86 family or ARM processors continue to evolve on a day to day basis while maintaining compatibility with older models. Even operating systems like Windows, macOS, and Linux follow this concept which runs on different hardware but keeping a familiar experience across devices.*
 
 4. What is the difference between kernel and user mode? Explain how having two distinct modes aids in designing an operating system.
