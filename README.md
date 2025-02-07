@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Terry Lo
+> Terry Lo\
 > Student ID: 029983406
 # CECS 326 Assignment 1 - Introduction to Operating Systems
 
