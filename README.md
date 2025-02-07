@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> Terry Lo & Student ID: 029983406
+> Terry Lo
+> Student ID: 029983406
 # CECS 326 Assignment 1 - Introduction to Operating Systems
 
 ## Assignment Description: Answer the following questions from the Chapter 1 reading from your textbook. Be thorough and complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
