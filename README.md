@@ -31,8 +31,8 @@
 *Since the system has four logical processors, it can run up to four programs at the same time. With only three programs running, they will all execute in parallel. The longest-running program (P2) takes 20 milliseconds, so all programs will finish in 20 milliseconds.*
 
 9. What is a trap instruction? Explain its use in operating systems.\
-*A trap instruction is like a program’s way of calling for help from the operating system. It’s used when a program needs the OS to do something it can’t do on its own, like opening a file, creating a new process, or handling an error (like dividing by zero). When a trap happens, control shifts from the program to the OS, which then handles the request safely.
+*A trap instruction is like a program’s way of calling for help from the operating system. It’s used when a program needs the OS to do something it can’t do on its own, like opening a file, creating a new process, or handling an error (like dividing by zero). When a trap happens, control shifts from the program to the OS, which then handles the request safely.*
 
 10. Modern operating systems decouple a process address space from the machine’s physical memory. List two advantages of this design.\
-*_First, it provides memory isolation, meaning each program gets its own protected memory space, preventing one program from accidentally overwriting another’s data._\
-*_Second, it allows virtual memory, meaning programs can use more memory than is physically available by temporarily storing data on disk. This makes the system more flexible and efficient._
+_*First, it provides memory isolation, meaning each program gets its own protected memory space, preventing one program from accidentally overwriting another’s data._\
+_*Second, it allows virtual memory, meaning programs can use more memory than is physically available by temporarily storing data on disk. This makes the system more flexible and efficient._
