@@ -27,7 +27,7 @@
     (c) Set the time-of-day clock. *Yes, since changing the clock affects the whole system*
     (d) Change the memory map. *Yes, because it controls how memory is allocated, which could lead to security risks if done improperly)
 
-### 8. Consider a system that has two CPUs, each CPU having two threads (hyperthreading). Suppose three programs, P0, P1, and P2, are started with run times of 5, 10 and 20 msec, respectively. How long will it take to complete the execution of these programs? Assume that all three programs are 100% CPU bound, do not block during execution, and do not change CPUs once assigned.\
+### 8. Consider a system that has two CPUs, each CPU having two threads (hyperthreading). Suppose three programs, P0, P1, and P2, are started with run times of 5, 10 and 20 msec, respectively. How long will it take to complete the execution of these programs? Assume that all three programs are 100% CPU bound, do not block during execution, and do not change CPUs once assigned.
 *Since the system has four logical processors, it can run up to four programs at the same time. With only three programs running, they will all execute in parallel. The longest-running program (P2) takes 20 milliseconds, so all programs will finish in 20 milliseconds.*
 
 ### 9. What is a trap instruction? Explain its use in operating systems.
